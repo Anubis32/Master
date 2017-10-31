@@ -1,6 +1,6 @@
 # Master
 Documentar tot
-
+Comandes per executar la app
 
 cd XXX
 mkdir build
